@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hardhat node and configuration",
   "scripts": {
-    "start": "hardhat node"
+    "start": "./node_modules/.bin/hardhat node"
   },
   "repository": {
     "type": "git",
